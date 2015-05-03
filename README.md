@@ -1,3 +1,3 @@
-# redis-benchmark
+# Eden
 
-This was meant to test redis write performance in clustered mode.
+Contains tools that help test other stuff.
